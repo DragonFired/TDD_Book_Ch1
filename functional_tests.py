@@ -59,7 +59,6 @@ class NewVisitorTest(unittest.TestCase):
 		self.fail('Finish the test!')
 
 		# She visits that URL - her to-do list is still there.
-		self.fail('Finish the test!')
 
 		# Satisfied, she goes back to sleep.
 
